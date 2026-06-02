@@ -1,6 +1,7 @@
+
 ---
 name: competitor-research-playbook
-version: 1.1.0
+version: 1.2.0
 description: |
   Your competitor just launched. You have no idea how they grew so fast. Should you reverse-engineer their website? Track their social media? Map their growth flywheel? This gives you the complete SOP — from Wayback Machine snapshots to X/Twitter propagation analysis to growth flywheel scoring. Built from 150+ AI startup competitive analyses including the Lovable case study (4.3M views, 229K impressions launch day). By @WeiYipei.
 
@@ -41,7 +42,7 @@ tags:
 
 # Competitor Research & Growth Flywheel Playbook — Full SOP
 
-> 🌍 **Language / 语言**: 中文 | English | 日本語 | 한국어
+> 🌍 **Language / 语言**: 中文 | [English](references/en/README.md) | [日本語](references/ja/README.md) | [한국어](references/ko/README.md)
 >
 > Complete SOP for systematic competitor research: website evolution analysis, social media channel teardown, growth flywheel scoring, X/Twitter propagation chain mapping, and KOL identification. Battle-tested across 150+ AI startups. Includes Lovable full case study (Nov 2024 launch: 229K impressions, 4.3M video views, 10K+ Discord community).
 
