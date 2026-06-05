@@ -1,4 +1,3 @@
-
 ---
 name: competitor-research-playbook
 version: 1.2.0
@@ -233,3 +232,15 @@ from:[Handle] since:YYYY-MM-DD until:YYYY-MM-DD -filter:retweets lang:en
 ---
 
 *Built from 150+ AI startup competitive analyses. Includes Lovable full case study (Nov 2024 launch). By @WeiYipei.*
+
+
+---
+
+## 🔗 About the Author
+
+**Iris Wei** — Growth consultant for 150+ AI startups. Ex-COO at AFFiNE (69K GitHub stars).
+
+- 🐦 Twitter: [@WeiYipei](https://twitter.com/WeiYipei) — Daily growth tactics
+- 💬 Consulting: [@Iris_carrot on Telegram](https://t.me/Iris_carrot)
+- 🛒 Premium Bundle (all 5 playbooks + templates): [Get on Gumroad ($249)](https://gingiris.gumroad.com/l/gingiris-complete-global-launch-bundle)
+- 📚 40+ Free Playbooks: [gingiris.tools/skills](https://gingiris.tools/skills/)
